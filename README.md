@@ -1,5 +1,5 @@
 # SOC_AutomationProject
 Wazuh instance w/ SOAR integration and Case Management using TheHive
 
-Three hosts: 1 PC and 2 Servers
+Three hosts: PC - Windows 10 w/ Sysmon, Wazuh Server, and TheHive Server
 Wazuh and TheHive are in the Cloud
